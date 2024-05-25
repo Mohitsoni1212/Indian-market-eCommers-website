@@ -1,0 +1,42 @@
+/* style.css */
+
+/* Apply styles to the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+  }
+  
+  /* Style the header */
+  .header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  /* Style the main content */
+  .main-content {
+    padding: 20px;
+  }
+  
+  /* Style buttons */
+  .button {
+    background-color: #0074d9;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Add more styles as needed */
+  

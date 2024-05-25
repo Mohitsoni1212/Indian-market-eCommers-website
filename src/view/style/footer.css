@@ -1,0 +1,23 @@
+.footer-link a {
+    color: #030303;
+    gap: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all ease-in 2s;
+}
+
+.footer-link a:hover {
+    text-decoration: underline;
+}
+
+.explore-link a {
+    color: #000000;
+    gap: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all ease-in 2s;
+}
+
+.explore-link a:hover {
+    text-decoration: underline;
+}

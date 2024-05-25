@@ -1,0 +1,22 @@
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(135, 70, 23);
+    width: 100%;
+    height: 70px;
+    background-color: aquamarine;
+
+}
+.logo {
+    height: 70px;
+    width: 70px;
+    padding: 10px 12px;
+    background-color: rgb(255, 42, 0);
+} 
+footer {
+    background: magenta;
+    padding: 10px;
+    height: 50px;
+}
